@@ -20,3 +20,53 @@
     text-decoration: none;
     margin-top: 50px;
     }
+    .nav{
+        flex-wrap: nowrap; 
+        flex-direction: row;
+    }
+    .pusk h2{
+        color:#0B63F8
+    }
+
+    .pusk{
+    display: flex;
+    margin-top: 65px;
+    gap: 15px;
+    margin-left: 41px;
+    }
+    .pusk2{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
+    .pusk3{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
+    .pusk4{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
+    .pusk5{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
+    .pusk6{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
+    .pusk7{
+        display: flex;
+        margin-top: 41px;
+        gap: 15px;
+        margin-left: 41px;
+    }
