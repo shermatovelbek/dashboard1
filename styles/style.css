@@ -191,3 +191,51 @@
     .foot h4:hover{
     color:blue;
     }
+
+    .to-all__container{
+        background: #F8F8F8;
+        display: flex;
+        margin-left: 230px;
+        margin-top: -1100px;
+    }
+    .right__container{
+        display:flex;
+    }
+    .input{
+        font-size: 30px;
+    }
+
+    .input input{
+        color:rgb(0, 0, 0);
+        width: 655px;
+        height: 52px;
+        flex-shrink: 0;
+        font-size: 14px;
+        margin-left: 250px;
+    }
+    .input[type=text]{
+        padding: 12px;
+        border: 1px solid black;
+        border-radius: 9px;
+    }
+    .to-all__container{
+        width: 1210px;
+        height: 1400px;
+        background-color:#F8F8F8 ;
+    }
+    .picture{
+        width: 52px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    background: #FFF;
+    margin-left: 100px;
+    
+    }
+    .picture img{
+        padding: 14px;
+    }
+
+    .images{
+        margin-left: 20px;
+    }
