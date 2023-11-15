@@ -7,7 +7,7 @@
     width: 230px;
     height: 1149px;
     flex-shrink: 0;
-    background: #dd8383;
+    background: #fff;
 }
 
 .logo a{
@@ -25,8 +25,102 @@
         flex-direction: row;
     }
     .pusk h2{
-        color:#0B63F8
-    }
+        color:#0B63F8;
+        color: #0B63F8;
+    font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 0.32px;
+        cursor: pointer;
+        }
+        .pusk2 h2{
+            color: #000;
+            font-family: Poppins;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            letter-spacing: 0.32px;
+            cursor: pointer;
+            transition: all 0.5s;
+            }
+            .pusk2 h2:hover{
+                color:blue;
+            }
+            .pusk3 h2{
+                color: #000;
+                font-family: Poppins;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: 0.32px;
+                cursor: pointer;
+                transition: all 0.5s;
+            }
+            .pusk3 h2:hover{
+                color:blue;
+            }
+            .pusk4 h2{
+                color: #000;
+                font-family: Poppins;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: 0.32px;
+                cursor: pointer;
+                transition: all 0.5s;
+            }
+            .pusk4 h2:hover{
+                color:blue;
+            }
+            .pusk5 h2{
+                color: #000;
+                font-family: Poppins;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: 0.32px;
+                cursor: pointer;
+                transition: all 0.5s;
+            }
+            .pusk5 h2:hover{
+                color:blue;
+            }
+            .pusk6 h2{
+                color: #000;
+                font-family: Poppins;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: 0.32px;
+                cursor: pointer;
+                transition: all 0.5s;
+            }
+            .pusk6 h2:hover{
+                color:blue;
+                text-shadow: #013CC6;
+            }
+            .pusk7 h2{
+                color: #000;
+                font-family: Poppins;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: 0.32px;
+                cursor: pointer;
+                transition: all 0.5s;
+            }
+            .pusk7 h2:hover{
+                color:blue;
+            }
+        
 
     .pusk{
     display: flex;
