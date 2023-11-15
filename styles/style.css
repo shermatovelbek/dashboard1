@@ -5,7 +5,7 @@
 }
 .left__container{
     width: 230px;
-    height: 1149px;
+    height: 1100px;
     flex-shrink: 0;
     background: #fff;
 }
@@ -18,11 +18,16 @@
     font-weight: 500;
     line-height: normal;
     text-decoration: none;
-    margin-top: 50px;
+    transition: all 0.5s;
+    margin-left: 29px;
+    }
+    .logo a:hover{
+        color:rgb(0, 0, 117)
     }
     .nav{
         flex-wrap: nowrap; 
         flex-direction: row;
+        cursor: pointer;
     }
     .pusk h2{
         color:#0B63F8;
@@ -104,7 +109,6 @@
             }
             .pusk6 h2:hover{
                 color:blue;
-                text-shadow: #013CC6;
             }
             .pusk7 h2{
                 color: #000;
@@ -163,4 +167,27 @@
         margin-top: 41px;
         gap: 15px;
         margin-left: 41px;
+    }
+
+    .foot{
+        display: flex;
+        align-items: center;
+       margin-top: 450px;
+       margin-left: 41px;
+       gap: 16px;
+    }
+    .foot h4{
+        color: #131313;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    transition: all 0.5s;
+    cursor: pointer;
+    }
+
+    .foot h4:hover{
+    color:blue;
     }
