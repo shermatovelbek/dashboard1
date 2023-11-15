@@ -8,6 +8,7 @@
     height: 1100px;
     flex-shrink: 0;
     background: #fff;
+    max-width: 100%;
 }
 
 .logo a{
@@ -259,7 +260,7 @@
     font-weight: 500;
     line-height: normal;
     margin-top: 152px;
-    margin-left: 123px;
+    margin-left: 140px;
     margin-bottom: 24px;
     }
 
@@ -268,6 +269,7 @@
     display: flex;
     gap: 208px;
     margin-left: -170px;
+    cursor: pointer;
 }
 .first-item h2{
     color: #000;
@@ -301,4 +303,54 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+.input__container{
+    margin-top: 300px;
+    display: flex;
+    margin-left: -890px;
+}
+.first-input input{
+    display: inline-flex;
+    height: 50px;
+    padding: 13px 170px 13px 24px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid rgba(19, 19, 19, 0.25);
+    background: #FFF;
+    cursor: pointer;
+    margin-left: 0px;
+}
+.second-input input{
+    display: inline-flex;
+    height: 50px;
+    padding: 13px 170px 13px 24px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid rgba(19, 19, 19, 0.25);
+    background: #FFF;
+    cursor: pointer;
+}
+.third-input input{
+    display: inline-flex;
+    height: 50px;
+    padding: 13px 170px 13px 24px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid rgba(19, 19, 19, 0.25);
+    background: #FFF;
+    cursor: pointer;
+}
+.fourth-input input{
+    display: inline-flex;
+    height: 50px;
+    padding: 13px 170px 13px 24px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid rgba(19, 19, 19, 0.25);
+    background: #FFF;
+    cursor: pointer;
 }
