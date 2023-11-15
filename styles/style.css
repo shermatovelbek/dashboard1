@@ -212,6 +212,7 @@
         flex-shrink: 0;
         font-size: 14px;
         margin-left: 250px;
+        cursor: pointer;
     }
     .input[type=text]{
         padding: 12px;
@@ -230,12 +231,15 @@
     border-radius: 3px;
     background: #FFF;
     margin-left: 100px;
+    cursor: pointer;
     
     }
     .picture img{
         padding: 14px;
+        cursor: pointer;
     }
 
     .images{
         margin-left: 20px;
+        cursor: pointer;
     }
