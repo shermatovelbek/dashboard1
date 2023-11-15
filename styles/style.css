@@ -65,6 +65,7 @@
                 letter-spacing: 0.32px;
                 cursor: pointer;
                 transition: all 0.5s;
+                align-items: center;
             }
             .pusk3 h2:hover{
                 color:blue;
@@ -205,6 +206,7 @@
     .input{
         font-size: 30px;
         margin-top: 56.1px;
+        cursor: pointer;
     }
 
     .input input{
@@ -262,6 +264,11 @@
     margin-top: 152px;
     margin-left: 140px;
     margin-bottom: 24px;
+    transition: all 0.5s;
+    cursor: pointer;
+    }
+    .text p:hover{
+        color:blue;
     }
 
 .inputs__container{
@@ -278,6 +285,10 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    transition: all 0.5s;
+}
+.first-item h2:hover{
+    color:blue;
 }
 .item-2 h2{
     color: #000;
@@ -286,6 +297,10 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+transition: all 0.5s;
+}
+.item-2 h2:hover{
+    color:blue;
 }
 .item-3 h2{
     color: #000;
@@ -294,7 +309,10 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-
+transition: all 0.5s;
+}
+.item-3 h2:hover{
+    color:blue;
 }
 .item-4 h2{
     color: #000;
@@ -303,6 +321,10 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+transition: all 0.5s;
+}
+.item-4 h2:hover{
+    color:blue;
 }
 .input__container{
     margin-top: 300px;
@@ -354,3 +376,4 @@ line-height: normal;
     background: #FFF;
     cursor: pointer;
 }
+
