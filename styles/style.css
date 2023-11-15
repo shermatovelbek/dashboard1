@@ -203,6 +203,7 @@
     }
     .input{
         font-size: 30px;
+        margin-top: 56.1px;
     }
 
     .input input{
@@ -211,7 +212,7 @@
         height: 52px;
         flex-shrink: 0;
         font-size: 14px;
-        margin-left: 250px;
+        margin-left: 40px;
         cursor: pointer;
     }
     .input[type=text]{
@@ -232,6 +233,7 @@
     background: #FFF;
     margin-left: 100px;
     cursor: pointer;
+    margin-top: 56.1px;
     
     }
     .picture img{
@@ -242,4 +244,61 @@
     .images{
         margin-left: 20px;
         cursor: pointer;
+        margin-top: 56.1px;
     }
+
+    .second__container{
+        margin-top: 20px;
+        margin-left: -1000px;
+    }
+    .text p{
+        color: #000;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 152px;
+    margin-left: 123px;
+    margin-bottom: 24px;
+    }
+
+.inputs__container{
+    margin-top: 230px;
+    display: flex;
+    gap: 208px;
+    margin-left: -170px;
+}
+.first-item h2{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.item-2 h2{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.item-3 h2{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.item-4 h2{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
